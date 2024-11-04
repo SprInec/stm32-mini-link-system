@@ -1,1 +1,2 @@
-Record=TopLevelDocument|FileName=Sheet1.SchDoc|SheetNumber=1
+Record=TopLevelDocument|FileName=ST-LINK.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=ST-LINK.SchDoc|FileName=STM32F103C8T6.SchDoc|SheetNumber=1
