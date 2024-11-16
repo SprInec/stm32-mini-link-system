@@ -1,4 +1,4 @@
-# STM32MiniSYS
+# STM32 mini Link System
 STM32最小系统，板载STlink
 
 参考：
